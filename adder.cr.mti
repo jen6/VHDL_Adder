@@ -1,0 +1,33 @@
+D:/egutjugut/adder/adder/csa16.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/egutjugut/adder/adder/csa16.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity csa16
+-- Compiling architecture arch_csa16 of csa16
+
+} {} {}} D:/egutjugut/adder/adder/fa.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/egutjugut/adder/adder/fa.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fa
+-- Compiling architecture arch_fa of fa
+
+} {} {}} D:/egutjugut/adder/adder/tb_fa.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/egutjugut/adder/adder/tb_fa.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_fa
+-- Compiling architecture arch_tb_fa of tb_fa
+
+} {} {}} D:/egutjugut/adder/adder/mux2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/egutjugut/adder/adder/mux2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2x1
+-- Compiling architecture arch_mux2x1 of mux2x1
+
+} {} {}}
